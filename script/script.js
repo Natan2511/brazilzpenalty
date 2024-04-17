@@ -1,6 +1,6 @@
 const comments = [
   {
-    img: "..//images/1.jpg",
+    img: "./images/1.jpg",
     name: "Tural Qasimoff",
     p: "370 manat çıxarmışam dostlarıma qonağlığ verəcəm hamını da kanala aldırmışam 😂😂",
   },
